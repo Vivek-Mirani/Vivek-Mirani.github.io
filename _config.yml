@@ -26,9 +26,9 @@ author:
   avatar           : "bio-photo-vivek.png"
   name             : "Vivek Mirani"
   pronouns         : # example: "she/her"  
-  bio              : "Goldman Sachs | IIT Kharagpur"
-  location         : "Bangaluru, India"
-  employer         : "Red Brick University"
+  bio              : "IIT Kharagpur"
+  location         : "Bengaluru, India"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "miranivivek5@gmail.com" 
 
